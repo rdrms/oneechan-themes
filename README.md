@@ -9,6 +9,7 @@ Adwaita: Based on default GNOME theme "Adwaita" (light theme)
 BEbreeze: Based on the Breeze theme described below, but with a yellow highlight reminiscent of BeOS (light theme)  
 BRReeze: Based on default "Breeze" look from KDE, also looks decent with other themes (light theme)  
 Breeze Dark: same as Breeze, just the dark verison (dark theme)  
+Dracula: Made to match the popular Dracula theme! (dark theme)
 Graphite: Based on "Graphite" GTK theme, very unsaturated look. (light theme)  
 Ubuntu: Based on default "Yaru" terminal look, or "Ubuntu" emacs theme (dark theme)  
 
